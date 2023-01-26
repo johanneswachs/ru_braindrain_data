@@ -1,2 +1,4 @@
-# ru_braindrain_data
-Data on developer movements out of Russia since the invasion of Ukraine
+# Data on Russian Brain Drain
+This anonymized data reports country level geolocations of active developers in Feb 2021 and Nov 2022. For details see: https://arxiv.org/pdf/2209.01041.pdf
+
+
